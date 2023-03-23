@@ -10,4 +10,4 @@ Ah, e é claro que a gente não pode esquecer de testar o site em vários navega
 Link do projeto:
 https://saviodnm.github.io/projeto-anna-bella/
 
-Obs.: Apenas estudos de criação de um site simples para utilização de CSS externo, não é responsivo.
+Obs.: Apenas estudo de criação de um site simples para utilização de CSS externo, não é responsivo.
